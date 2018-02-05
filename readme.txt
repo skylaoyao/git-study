@@ -1,3 +1,3 @@
 --git demo
 git is free software
-git study
+git good good study day day up
